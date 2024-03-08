@@ -12,8 +12,6 @@
 * [Leonardo Henrique Saraiva de Avelar](https://github.com/Leo-Avelar)
 * [Josué Pereira Nogueira](https://github.com/JosuePN2)
 * [Lucas Diniz de Moraes](https://github.com/lucasdiniz1708)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável
 
