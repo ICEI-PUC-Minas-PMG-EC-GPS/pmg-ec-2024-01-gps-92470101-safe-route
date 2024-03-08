@@ -10,7 +10,7 @@
 ## Alunos integrantes da equipe
 
 * [Leonardo Henrique Saraiva de Avelar](https://github.com/Leo-Avelar)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
+* [Josué Pereira Nogueira)](https://github.com/JosuePN2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
 * [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
