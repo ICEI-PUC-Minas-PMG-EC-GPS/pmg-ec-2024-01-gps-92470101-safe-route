@@ -3,9 +3,7 @@
 
 # Safe Route
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-  O projeto Safe Route busca através do monitoramento feito utilizando
+......    O projeto Safe Route busca através do monitoramento feito utilizando
 funcionalidades do próprio celular do usuário garantir a segurança do motorista,
 passageiros e/ou mercadorias. Sendo assim, poderia ser utilizado por empresas de
 transporte, motoristas de apps, entre outros.
@@ -14,7 +12,8 @@ Está incluso como funcionalidade do app o monitoramento de paradas do
 veículo, para caso ocorra uma parada inesperada por um determinado período de
 tempo seja emitido um alerta(com a localização atual do veículo) a um contato
 predefinido (contratante, empresa responsável, etc) dessa forma garantindo maior
-controle e segurança aos envolvidos
+controle e segurança aos envolvidos ......
+
 
 ## Alunos integrantes da equipe
 
