@@ -62,8 +62,8 @@
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
-![Insight - Mês Fevereiro](![image](insights.png))
-)
+![Insight - Mês Fevereiro](![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/blob/master/docs/04-monitoramento/images/insights.png)
+
 
 **Insight - Mês Abril**
 > Adicione aqui insights do mês de Abril.
