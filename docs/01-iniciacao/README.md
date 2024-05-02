@@ -158,6 +158,24 @@ A tabela a seguir apresenta as restrições do projeto.
 > Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
 > Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
 
+
+Nome  |  Relação ao Projeto  |  Nível de influência
+------|----------------------|-----------------------
+Josué Nogueira | Gerente | Alta
+Leonardo Avelar | Desenvolvedor | Alta
+Lucas Diniz | Desenvolvedor | Alta
+João Alves | Desenvolvedor | Moderada
+André Silva | Desenvolvedor | Moderada
+Ana Carvalho | Desenvolvedor | Moderada
+Carlos Andrade | Equipe Marketing | Baixa
+Vinicius Souza | Equipe Marketing | Baixa
+Car Excellence Inc. | Cliente | Moderada
+Driving Better Corporation | Cliente | Moderada
+
+
+
+
+
 # Estimativa de Custo e Prazo
 
 ## Estimativa de Custo
