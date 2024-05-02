@@ -230,10 +230,10 @@ A tabela a seguir apresenta as restrições do projeto.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
+| Quadro Kanban         | Github             | [https://github.com/XXXXXXX](https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/12) | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
 | Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
+| Documentos Textuais   | Google Docs | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | | | |
 | Cronograma do Projeto | | | |
