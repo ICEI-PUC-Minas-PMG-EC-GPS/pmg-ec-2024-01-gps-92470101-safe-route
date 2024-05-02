@@ -237,7 +237,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | | | |
 | Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Matriz RACI           | |[artefatos/declaracao-escopo.docx](artefatos/declaracao-escopo.docx) | |
 
 # Documentos
 
