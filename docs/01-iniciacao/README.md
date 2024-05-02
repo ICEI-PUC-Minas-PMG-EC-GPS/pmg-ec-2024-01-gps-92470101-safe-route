@@ -237,7 +237,7 @@ A tabela a seguir apresenta as restrições do projeto.
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | | | |
 | Cronograma do Projeto | | | |
-| Matriz RACI           | |[artefatos/MatrizRACIGrupo4.pdf](artefatos/MatrizRACIGrupo4.pdf) | |
+| Matriz RACI           | Google Docs |[artefatos/MatrizRACIGrupo4.pdf](artefatos/MatrizRACIGrupo4.pdf) | |
 
 # Documentos
 
