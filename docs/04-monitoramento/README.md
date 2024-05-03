@@ -67,7 +67,7 @@
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/f40d3979-263e-493e-bb8a-fc4ab12ac2b2)
 
 **Insight - Mês Abril**
-> Adicione aqui insights do mês de Abril.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/03455333-420b-46d1-b5a1-5de2a80f7056)
 
 **Insight - Mês Maio**
 > Adicione aqui insights do mês de Maio.
