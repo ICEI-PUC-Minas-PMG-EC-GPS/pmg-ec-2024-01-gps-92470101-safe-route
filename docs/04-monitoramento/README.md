@@ -42,6 +42,7 @@
 6. [2024-04-12 - Ata de Reunião](artefatos/ata-reuniao_2024-04-12.pdf)
 7. [2024-04-26 - Ata de Reunião](artefatos/ata-reuniao_2024-04-26.pdf)
 8. [2024-05-03 - Ata de Reunião](artefatos/ata-reuniao_2024-05-03.pdf)
+9. [2024-05-10 - Ata de Reunião](artefatos/ata-reuniao_2024-05-10.pdf)
 
 # Relatórios de Desempenho
 
