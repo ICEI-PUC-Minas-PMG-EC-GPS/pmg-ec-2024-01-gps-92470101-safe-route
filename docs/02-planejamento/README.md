@@ -42,7 +42,7 @@
 
 > **Exemplo de EAP:**
 > ![Exemplo de EAP](![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/0ea06cc0-4e03-4f9d-b61a-bf4c580e21be)
-)
+
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
