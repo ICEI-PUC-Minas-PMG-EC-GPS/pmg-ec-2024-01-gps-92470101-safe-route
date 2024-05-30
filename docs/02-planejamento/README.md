@@ -31,7 +31,7 @@
 
 
 # Estrutura Analítica do Projeto
-[Acessar PDF](docs/02-planejamento/artefatos/EAPGrupo4(2).pdf)
+[Acessar PDF](artefatos/EAPGrupo4 (2).pdf)
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/0ea06cc0-4e03-4f9d-b61a-bf4c580e21be)
 
 
@@ -39,7 +39,7 @@
 
 # Matriz de Responsabilidades
 
-[Acessar PDF](docs/02-planejamento/artefatos/MatrizRACIGrupo4.pdf)
+[Acessar PDF](artefatos/MatrizRACIGrupo4.pdf)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/c5ac22f5-e903-4e2e-bc11-b350a8303503)
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/366948a9-9125-4f0e-947a-270e040ecbf6)
