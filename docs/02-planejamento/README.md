@@ -31,7 +31,7 @@
 
 
 # Estrutura Analítica do Projeto
-
+[Acessar PDF](docs/02-planejamento/artefatos/EAPGrupo4(2).pdf)
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/0ea06cc0-4e03-4f9d-b61a-bf4c580e21be)
 
 
@@ -39,20 +39,11 @@
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[Acessar PDF](docs/02-planejamento/artefatos/MatrizRACIGrupo4.pdf)
 
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/c5ac22f5-e903-4e2e-bc11-b350a8303503)
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/366948a9-9125-4f0e-947a-270e040ecbf6)
 
-> Informações Adicionais:
-> * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
-> * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
-> * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
-> * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
-> 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
 # Escopo do Projeto
 
