@@ -199,13 +199,13 @@ Driving Better Corporation | Cliente | Moderada
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        |           |    3400        |       15       |       51.000      |
+| Hardware                |      -     |      -      |       -       |       -      |
+| Serviços de Rede        |           |      150      |       5       |       1500      |
+| Hospedagem e Nuvem      |           |      150      |       5       |       1500      |
+| Software de terceiros   |      -     |      -      |       -       |       -      |
+| Serviços e treinamento  |           |      240      |       10       |       2400      |
+| **Total Geral**         |           |      3940      |       14,31       |      56400       |
 
 
 ## Estimativa de Prazo
