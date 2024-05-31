@@ -31,21 +31,17 @@
 
 ......  ATUALIZE A LISTA DE ATAS DE REUNIÃO DO PROJETO ......
 
-> Atualize a lista de atas de reunião do projeto, com as atas entregues semanalmente na disciplina.
-> Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
-
-1. [2024-02-23 - Ata de Reunião](artefatos/ata-reuniao_2024-02-23.pdf)
-2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
-3. [2024-03-08 - Ata de Reunião](artefatos/ata-reuniao_2024-03-08.pdf)
-4. [2024-03-15 - Ata de Reunião](artefatos/ata-reuniao_2024-03-15.pdf)
-5. [2024-03-22 - Ata de Reunião](artefatos/ata-reuniao_2024-03-22.pdf)
-6. [2024-04-12 - Ata de Reunião](artefatos/ata-reuniao_2024-04-12.pdf)
-7. [2024-04-26 - Ata de Reunião](artefatos/ata-reuniao_2024-04-26.pdf)
-8. [2024-05-03 - Ata de Reunião](artefatos/ata-reuniao_2024-05-03.pdf)
-9. [2024-05-10 - Ata de Reunião](artefatos/ata-reuniao_2024-05-10.pdf)
-10. [2024-05-17 - Ata de Reunião](artefatos/ata-reuniao_2024-05-17.pdf)
-11. [2024-05-24 - Ata de Reunião](artefatos/ata-reuniao_2024-05-24.pdf)
-12. [2024-05-31 - Ata de Reunião](artefatos/ata-reuniao_2024-05-31.pdf)
+1. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
+2. [2024-03-08 - Ata de Reunião](artefatos/ata-reuniao_2024-03-08.pdf)
+3. [2024-03-15 - Ata de Reunião](artefatos/ata-reuniao_2024-03-15.pdf)
+4. [2024-03-22 - Ata de Reunião](artefatos/ata-reuniao_2024-03-22.pdf)
+5. [2024-04-12 - Ata de Reunião](artefatos/ata-reuniao_2024-04-12.pdf)
+6. [2024-04-26 - Ata de Reunião](artefatos/ata-reuniao_2024-04-26.pdf)
+7. [2024-05-03 - Ata de Reunião](artefatos/ata-reuniao_2024-05-03.pdf)
+8. [2024-05-10 - Ata de Reunião](artefatos/ata-reuniao_2024-05-10.pdf)
+9. [2024-05-17 - Ata de Reunião](artefatos/ata-reuniao_2024-05-17.pdf)
+10. [2024-05-24 - Ata de Reunião](artefatos/ata-reuniao_2024-05-24.pdf)
+11. [2024-05-31 - Ata de Reunião](artefatos/ata-reuniao_2024-05-31.pdf)
 
 # Relatórios de Desempenho
 
