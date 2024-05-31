@@ -32,6 +32,7 @@
 
 # Estrutura Analítica do Projeto
 [Acessar PDF](artefatos/EAPGrupo4.pdf)
+
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/0ea06cc0-4e03-4f9d-b61a-bf4c580e21be)
 
 
@@ -47,12 +48,10 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[Acessar PDF](artefatos/DeclaracaoEscopoGrupo4.pdf)
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/0bf3264e-2a36-493e-a589-c3dcad43685f)
+
 
 
 # Cronograma do Projeto
