@@ -33,40 +33,41 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+A segurança no transporte de mercadorias e de pessoas é uma preocupação constante para empresas e indivíduos. Motoristas enfrentam diversos riscos, incluindo acidentes, roubos, desvios de rota e situações de emergência. Atualmente, não há uma solução eficaz e integrada que permita monitorar em tempo real o comportamento do veículo e do motorista, fornecendo alertas imediatos para prevenir ou responder rapidamente a incidentes. Essa lacuna deixa motoristas, passageiros e cargas vulneráveis, impactando negativamente na eficiência das entregas e na segurança dos envolvidos.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
+1. Implementar um sistema de rastreamento preciso utilizando funcionalidades nativas dos dispositivos móveis.
+2. Criar um mecanismo de alerta para situações anormais, como paradas prolongadas ou desvios de rota.
+3. Permitir o cadastro de contatos responsáveis que receberão notificações de segurança.
+4. Garantir uma interface intuitiva e de fácil utilização para motoristas e administradores.
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nesta seção, serão detalhadas as especificações técnicas e funcionais do aplicativo Safe Route. O desenvolvimento do projeto utilizará as seguintes técnicas e ferramentas:
 
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+1. Tecnologia de Rastreamento GPS: Utilização das APIs nativas dos sistemas operacionais Android e iOS para obter dados de localização em tempo real.
+2. Sistema de Notificações Push: Implementação de um sistema de notificações para alertas de segurança utilizando Firebase Cloud Messaging (FCM) para Android e Apple Push Notification Service (APNs) para iOS.
+3. Backend em Nuvem: Desenvolvimento de um backend escalável utilizando serviços em nuvem como AWS ou Google Cloud para processamento de dados e armazenamento seguro das informações.
+4. Interface do Usuário (UI/UX): Criação de uma interface amigável e responsiva utilizando frameworks como React Native ou Flutter, garantindo compatibilidade com diferentes dispositivos móveis.
+5. Segurança e Privacidade: Implementação de medidas de segurança, como criptografia de dados e autenticação de usuários, para proteger as informações sensíveis.
+
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os critérios de sucesso para o projeto Safe Route serão baseados nas seguintes dimensões:
 
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+Entrega no Prazo e Orçamento: O projeto deve ser concluído dentro dos prazos estabelecidos e do orçamento previsto.
+Satisfação do Cliente: A Car Excellence Inc. e a Driving Better Corporation devem estar plenamente satisfeitas com a funcionalidade e a usabilidade do aplicativo.
+Qualidade do Produto: O aplicativo deve ser estável, seguro e de alta precisão na localização e monitoramento, conforme os requisitos de qualidade estabelecidos.
+Adoção e Utilização: O aplicativo deve ser adotado e utilizado efetivamente pelos motoristas e administradores, demonstrando a eficácia e a utilidade das funcionalidades implementadas.
+Gerenciamento de Riscos: O projeto deve identificar, monitorar e mitigar riscos eficazmente ao longo do seu ciclo de vida.
+Feedback das Partes Interessadas: O projeto deve receber feedback positivo das partes interessadas, evidenciando que os requisitos e expectativas foram atendidos.
+
+
  
 ## Histórias de Usuários
 
