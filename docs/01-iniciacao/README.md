@@ -60,12 +60,12 @@ Nesta seção, serão detalhadas as especificações técnicas e funcionais do a
 
 Os critérios de sucesso para o projeto Safe Route serão baseados nas seguintes dimensões:
 
-Entrega no Prazo e Orçamento: O projeto deve ser concluído dentro dos prazos estabelecidos e do orçamento previsto.
-Satisfação do Cliente: A Car Excellence Inc. e a Driving Better Corporation devem estar plenamente satisfeitas com a funcionalidade e a usabilidade do aplicativo.
-Qualidade do Produto: O aplicativo deve ser estável, seguro e de alta precisão na localização e monitoramento, conforme os requisitos de qualidade estabelecidos.
-Adoção e Utilização: O aplicativo deve ser adotado e utilizado efetivamente pelos motoristas e administradores, demonstrando a eficácia e a utilidade das funcionalidades implementadas.
-Gerenciamento de Riscos: O projeto deve identificar, monitorar e mitigar riscos eficazmente ao longo do seu ciclo de vida.
-Feedback das Partes Interessadas: O projeto deve receber feedback positivo das partes interessadas, evidenciando que os requisitos e expectativas foram atendidos.
+1. Entrega no Prazo e Orçamento: O projeto deve ser concluído dentro dos prazos estabelecidos e do orçamento previsto.
+2. Satisfação do Cliente: A Car Excellence Inc. e a Driving Better Corporation devem estar plenamente satisfeitas com a funcionalidade e a usabilidade do aplicativo.
+3. Qualidade do Produto: O aplicativo deve ser estável, seguro e de alta precisão na localização e monitoramento, conforme os requisitos de qualidade estabelecidos.
+4. Adoção e Utilização: O aplicativo deve ser adotado e utilizado efetivamente pelos motoristas e administradores, demonstrando a eficácia e a utilidade das funcionalidades implementadas.
+5. Gerenciamento de Riscos: O projeto deve identificar, monitorar e mitigar riscos eficazmente ao longo do seu ciclo de vida.
+6. Feedback das Partes Interessadas: O projeto deve receber feedback positivo das partes interessadas, evidenciando que os requisitos e expectativas foram atendidos.
 
 
  
