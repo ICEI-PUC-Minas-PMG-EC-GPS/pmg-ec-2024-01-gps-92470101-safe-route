@@ -27,10 +27,12 @@ controle e segurança aos envolvidos.
 
 ## Gerenciamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
+Será desenvolvido um aplicativo mobile que conseguirá com precisão rastrear um veículo cadastrado,
+emitindo alertas de segurança dependendo do comportamento do veículo. Para isso, serão utilizadas
+funcionalidades nativas do próprio celular do cliente, como a localização.
+O Cliente deverá cadastrar algum contato “responsável” podendo ser algum contratante do serviço deste
+motorista, alguma empresa responsável, ou algum familiar que receberá alertas caso ocorra anormalidades,
+como uma parada prolongada do veículo ou um desvio abrupto da rota esperada.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
