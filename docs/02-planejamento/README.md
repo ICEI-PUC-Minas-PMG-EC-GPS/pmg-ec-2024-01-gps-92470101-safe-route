@@ -61,6 +61,7 @@
 # Cronograma do Projeto
 
 [Acessar PDF](artefatos/SafeRoute.pdf)
+[Acessar .pod](artefatos/SafeRouteTarefa8.pod)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/b5d2eb59-9ccf-4a90-bb7e-8192c0ec04cb)
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/9653068c-0c06-46da-9965-bd3cd0c6a121)
@@ -76,6 +77,7 @@
 # Orçamento do Projeto
 
 [Acessar PDF](artefatos/SafeRoute.pdf)
+[Acessar .pod](artefatos/SafeRouteTarefa8.pod)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/b5d2eb59-9ccf-4a90-bb7e-8192c0ec04cb)
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/9653068c-0c06-46da-9965-bd3cd0c6a121)
