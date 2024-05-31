@@ -37,6 +37,12 @@ A segurança no transporte de mercadorias e de pessoas é uma preocupação cons
 
 ## Objetivos
 
+**Objetivo Geral**
+
+Desenvolver um aplicativo móvel para monitoramento veicular, visando aumentar a segurança de motoristas, passageiros e mercadorias.
+
+**Objetivos Específicos**
+
 1. Implementar um sistema de rastreamento preciso utilizando funcionalidades nativas dos dispositivos móveis.
 2. Criar um mecanismo de alerta para situações anormais, como paradas prolongadas ou desvios de rota.
 3. Permitir o cadastro de contatos responsáveis que receberão notificações de segurança.
