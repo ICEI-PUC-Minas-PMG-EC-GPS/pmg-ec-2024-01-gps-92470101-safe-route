@@ -17,15 +17,12 @@
 
 # Atas de Reunião
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A ata de reunião é responsável por registrar e documentar as discussões, decisões e ações tomadas durante as reuniões do projeto.
 > Este instrumento fornece uma narrativa estruturada daquilo que foi abordado na reunião, ajudando a preservar a transparência, a responsabilidade e a memória do grupo. 
 > Em uma ata de reunião típica, são registrados tópicos como a lista de participantes, agenda, pontos de discussão, decisões tomadas, ações atribuídas, e prazos acordados. 
 > A ata não apenas serve como uma referência histórica, mas também como um meio de comunicação eficaz para aqueles que não puderam participar, garantindo que todos estejam alinhados com os acontecimentos e responsabilidades subsequentes. 
-> 
-> Para preenchimento das atas de reunião, utilize o seguinte template:
-> * [Template de Ata de Reunião](artefatos/template-ata-reuniao.docx)
+
 
 ## Atas de Reunião do Projeto
 
@@ -59,7 +56,6 @@
 
 ## Insights do repositório
 
-......  ATUALIZE AS IMAGENS MENSALMENTE ......
 
 > Os insights do repositório indicam a quantidade de commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
@@ -71,7 +67,8 @@
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/03455333-420b-46d1-b5a1-5de2a80f7056)
 
 **Insight - Mês Maio**
-> Adicione aqui insights do mês de Maio.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/69f31378-fb41-42a3-8b6e-df14d7be82b3)
+
 
 **Insight - Mês Junho**
 > Adicione aqui insights do mês de Junho.
