@@ -147,7 +147,7 @@
 - Critérios de Aceitação: Definir critérios claros para aceitação de cada funcionalidade desenvolvida.
 - Monitoramento e Controle: Realizar auditorias regulares de qualidade e relatórios de desempenho.
 
-[Acessar PDF](artefatos/TemplatePlanodeComunicacaoGrupo4.pdf)
+[Acessar PDF](artefatos/PlanodeQualidadeGrupo4.pdf)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/7d86f0bf-3508-4258-992f-5f39eb389508)
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/1f1a5675-eff0-47e2-b5ff-b21261783402)
@@ -222,14 +222,15 @@
 
 ## Aquisição de Produtos
 
-- [Declaração de Escopo](artefatos/solicitacao-compra_Grupo4.pdf)
+- [Aquisição de Produtos](artefatos/solicitacao-compra_Grupo4.pdf)
 
 ## Checklist de Qualidade
 
-- [Checklist de Qualidade](artefatos/TemplatePlanodeComunicacaoGrupo4.pdf)
+- [Checklist de Qualidade](artefatos/PlanodeQualidadeGrupo4.pdf)
 
 ## Escopo, Cronograma e Orçamento
 
+- [Declaração de Escopo](artefatos/DeclaracaoEscopoGrupo4.pdf)
 - [Cronograma e Orçamento do Projeto em .pdf](artefatos/SafeRoute.pdf)
 - [Cronograma e Orçamento do Projeto em .pod](artefatos/SafeRouteTarefa8.pod)
 
@@ -239,7 +240,7 @@
 
 ## Matriz de Responsabilidades (RACI)
 
-- [Declaração de Escopo](artefatos/MatrizRACIGrupo4.pdf)
+- [Matriz RACI](artefatos/MatrizRACIGrupo4.pdf)
 
 ## Plano de Gerenciamento de Comunicação
 
@@ -248,5 +249,5 @@
 ## Plano de Gerenciamento de Riscos
 
 - [Plano de Gerenciamento de Riscos em .pdf](artefatos/ListadeRiscosGrupo4.pdf)
-- [Plano de Gerenciamento de Riscos em .xlsx](artefatos/ListadeRiscosGrupo4.pdf)
+- [Plano de Gerenciamento de Riscos em .xlsx](artefatos/ListadeRiscosGrupo4.xlsx)
 
