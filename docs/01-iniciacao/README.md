@@ -77,8 +77,6 @@ Os critérios de sucesso para o projeto Safe Route serão baseados nas seguintes
  
 ## Histórias de Usuários
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
-
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
@@ -146,41 +144,61 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
-
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001|	Permitir que o usuário cadastre seu veículo no aplicativo|	ALTA|
+|RF-002|	Permitir que o usuário receba alertas de desvios de rota	|ALTA|
+|RF-003|	Permitir que o usuário receba alertas de paradas prolongadas|	ALTA|
+|RF-004|	Permitir que o usuário envie manualmente seu status de segurança	|ALTA|
+|RF-005	|Permitir que o administrador visualize a localização dos veículos	|ALTA|
+|RF-006|	Permitir que o administrador receba relatórios de trajetos|	MÉDIA|
+|RF-007	|Permitir que o administrador configure contatos responsáveis	|ALTA|
+|RF-008|	Permitir que familiares recebam alertas de segurança	|ALTA|
+|RF-009|	Permitir que familiares visualizem a localização do veículo	|ALTA|
+|RF-010	|Permitir que o usuário veja o histórico de suas rotas	|MÉDIA|
+|RF-011	|Permitir que o administrador configure parâmetros de alertas	|MÉDIA|
+|RF-012|	Permitir que o usuário edite seu perfil e informações do veículo|	MÉDIA|
+|RF-013|	Permitir que o administrador exclua veículos da frota|	MÉDIA|
+|RF-014|	Permitir que o usuário receba orientações em caso de emergência	|ALTA|
+|RF-015	|Integrar o sistema com outros softwares de gestão|	BAIXA|
+|RF-016|	Permitir que o usuário receba assistência imediata em emergências|	ALTA|
+|RF-017	|Permitir que o administrador exporte dados para análises externas|	MÉDIA|
+|RF-018|	Permitir que familiares configurem notificações personalizadas	|MÉDIA|
+|RF-019|	Permitir que o usuário acesse o aplicativo offline	|BAIXA|
+|RF-020	|Permitir que o administrador gere gráficos de desempenho|	MÉDIA|
 
 ### Requisitos Não Funcionais
-
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-
+|RNF-001|	O sistema deve ser responsivo para rodar em dispositivos móveis|	ALTA|
+|RNF-002|	O sistema deve processar requisições do usuário em no máximo 2s|	MÉDIA|
+|RNF-003|	O sistema deve garantir a criptografia de dados sensíveis	|ALTA|
+|RNF-004|	O sistema deve ser compatível com Android e iOS|	ALTA|
+|RNF-005|	O sistema deve garantir alta disponibilidade (99.9% uptime)	|ALTA|
+|RNF-006|	O sistema deve permitir escalabilidade para suportar até 10.000 usuários simultâneos	|MÉDIA|
+|RNF-007|	O sistema deve ter interface amigável e intuitiva	|ALTA|
+|RNF-008|	O sistema deve garantir a integridade dos dados armazenados|	ALTA|
+|RNF-009|	O sistema deve permitir fácil integração com APIs externas|	MÉDIA|
+|RNF-010|	O sistema deve seguir as normas de acessibilidade|	MÉDIA|
 
 ### Restrições
-
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001|	O desenvolvimento deve ser concluído em 6 meses	|ALTA|
+|RE-002|	O orçamento do projeto deve ser de até R$ 500.000,00|	ALTA|
+|RE-003|	O aplicativo deve suportar múltiplos idiomas|	MÉDIA|
+|RE-004|	A integração com outros sistemas deve ser limitada a REST APIs|	MÉDIA|
+|RE-005|	O aplicativo não deve requerer hardware adicional	|ALTA|
 
 # Partes Interessadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Relacione as partes interessadas no seu projeto. 
 > Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
@@ -208,7 +226,6 @@ Driving Better Corporation | Cliente | Moderada
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -216,22 +233,18 @@ Driving Better Corporation | Cliente | Moderada
 > A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
 > Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |    3400        |       15       |       51.000      |
+| Recursos Humanos        |     -      |    3400        |       15       |       51.000      |
 | Hardware                |      -     |      -      |       -       |       -      |
-| Serviços de Rede        |           |      150      |       5       |       1500      |
-| Hospedagem e Nuvem      |           |      150      |       5       |       1500      |
+| Serviços de Rede        |      -     |      150      |       5       |       1500      |
+| Hospedagem e Nuvem      |     -      |      150      |       5       |       1500      |
 | Software de terceiros   |      -     |      -      |       -       |       -      |
-| Serviços e treinamento  |           |      240      |       10       |       2400      |
-| **Total Geral**         |           |      3940      |       14,31       |      56400       |
+| Serviços e treinamento  |      -     |      240      |       10       |       2400      |
+| **Total Geral**         |      -     |      3940      |       14,31       |      56400       |
 
 
 ## Estimativa de Prazo
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
 > Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
@@ -241,6 +254,10 @@ Driving Better Corporation | Cliente | Moderada
 > * Prazo previsto (em horas) 
 > * Data de início
 > * Data de término
+* Prazo previsto (em horas): 3940
+* Data de início: 01/03/2024
+* Data de término: 08/06/2024
+
 
 # Metodologia
 
