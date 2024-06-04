@@ -274,13 +274,22 @@ Driving Better Corporation | Cliente | Moderada
 > - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A metodologia adotada para o desenvolvimento do projeto Safe Route é baseada no framework ágil Scrum. O Scrum é uma abordagem iterativa e incremental para o desenvolvimento de software, que foca em entregas rápidas e frequentes de partes funcionais do produto, com ênfase na colaboração entre a equipe e as partes interessadas.
+
+**Processo de Trabalho**
+- Sprint Planning: Planejamento das tarefas a serem realizadas em cada sprint, definindo prioridades e alocando recursos.
+- Daily Stand-up: Reuniões diárias rápidas para acompanhar o progresso, identificar impedimentos e ajustar o trabalho conforme necessário.
+- Sprint Review: Apresentação das funcionalidades desenvolvidas ao final de cada sprint para os stakeholders, coletando feedback e ajustando o backlog do produto.
+- Sprint Retrospective: Reflexão sobre o processo de trabalho, identificando pontos de melhoria para o próximo sprint.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
+- Gerente do projeto: Responsável por definir a visão do produto, priorizar o backlog e assegurar que o trabalho da equipe de desenvolvimento está alinhado com as necessidades do cliente.
+- Scrum Master: Facilita o processo Scrum, removendo impedimentos e garantindo que a equipe siga os princípios e práticas ágeis.
+- Equipe de Desenvolvimento: Conjunto de desenvolvedores responsáveis pela implementação das funcionalidades do produto.
+- Stakeholders: Representantes do cliente e outras partes interessadas que fornecem feedback contínuo sobre o produto.
 
 ## Ferramentas
 
@@ -294,9 +303,9 @@ Driving Better Corporation | Cliente | Moderada
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | [https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/12](https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/12) | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | Google Docs | N/A                        |               |
+| Repositório de código | GitHub             | [https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route) |Organizar os arquivos do projeto               |
+| Protótipo Interativo  | MavelApp ou Figma  | [https://figma.com/design/dWVCaWA6MDgvu7O2hVx9Z1/Safe-Route?node-id=0-1&t=hpmHKIsmoLwjHmGb-0](https://www.figma.com/design/dWVCaWA6MDgvu7O2hVx9Z1/Safe-Route?node-id=0-1&t=hpmHKIsmoLwjHmGb-0)  | Visualizar a interface do app              |
+| Documentos Textuais   | Google Docs | N/A                        | Documentar o projeto              |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | | | |
 | Cronograma do Projeto | | | |
