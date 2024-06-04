@@ -85,6 +85,27 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Motorista | Cadastrar meu veículo no aplicativo	           | Que ele possa ser monitorado em tempo real             |
+|Motorista       | Receber alertas sobre desvios de rota             | Saber quando estou fora da rota planejada |
+|Motorista | 	Receber alertas sobre paradas prolongadas          | Agir rapidamente caso esteja em uma situação de risco              |
+|Motorista      | 	Enviar meu status de segurança manualmente           | Informar que estou em segurança ou em situação de emergência |
+|Administrador de Frota  | Visualizar a localização de todos os veículos        | Monitorar a frota e garantir a segurança         |
+|Administrador de Frota    | Receber relatórios de trajetos percorridos               | Analisar a eficiência e segurança das rotas |
+|Administrador de Frota  | Configurar contatos responsáveis para alertas        | Designar responsáveis para responder a alertas de segurança              |
+|Familiar de Motorista       | Receber alertas de segurança               | Saber imediatamente se algo está errado |
+|Familiar de Motorista | Visualizar a localização do veículo do motorista           | Ter certeza de onde o motorista está              |
+|Motorista       | 	Ver o histórico de minhas rotas                 | Revisar os trajetos percorridos |
+|Administrador de Frota  | Configurar parâmetros de alerta          | Ajustar as condições que disparam alertas de segurança               |
+|Motorista       | Editar meu perfil e informações do veículo | Manter meus dados e os do veículo atualizados |
+|Administrador de Frota  | Excluir veículos da frota          | Manter a lista de veículos atualizada          |
+|Motorista       | Receber orientações em caso de emergência               | Saber o que fazer em situações de risco |
+|Administrador de Frota | Integrar o sistema com outros softwares de gestão           | Melhorar a eficiência da gestão de frota         |
+|Motorista       | Receber assistência imediata em emergências           | Garantir minha segurança e a do veículo |
+|Administrador de Frota | 	Exportar dados para análises externas        | Realizar análises detalhadas fora do aplicativo          |
+|Familiar de Motorista      | 	Configurar notificações personalizadas	   | 	Receber notificações conforme minha preferência |
+|Motorista   | Acessar o aplicativo offline        | 	Consultar informações mesmo sem conexão com a internet       |
+|Administrador de Frota   | Gerar gráficos de desempenho        | 	Visualizar o desempenho da frota de forma visual e clara |
+
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
 > As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
