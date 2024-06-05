@@ -261,8 +261,6 @@ Driving Better Corporation | Cliente | Moderada
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >
 > Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
@@ -293,8 +291,6 @@ A metodologia adotada para o desenvolvimento do projeto Safe Route é baseada no
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 > Todas as ferramentas utilizadas devem ser listadas.
 > Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
@@ -306,10 +302,10 @@ A metodologia adotada para o desenvolvimento do projeto Safe Route é baseada no
 | Repositório de código | GitHub             | [https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route) |Organizar os arquivos do projeto               |
 | Protótipo Interativo  | MavelApp ou Figma  | [https://figma.com/design/dWVCaWA6MDgvu7O2hVx9Z1/Safe-Route?node-id=0-1&t=hpmHKIsmoLwjHmGb-0](https://www.figma.com/design/dWVCaWA6MDgvu7O2hVx9Z1/Safe-Route?node-id=0-1&t=hpmHKIsmoLwjHmGb-0)  | Visualizar a interface do app              |
 | Documentos Textuais   | Google Docs | N/A                        | Documentar o projeto              |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | Google Docs |[artefatos/MatrizRACIGrupo4.pdf](artefatos/MatrizRACIGrupo4.pdf) | |
+| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |Documentar o projeto               |
+| EAP / WBS             |Miro |[https://miro.com/app/board/uXjVNgV2MPk=/](https://miro.com/app/board/uXjVNgV2MPk=/) |Organização das tarefas |
+| Cronograma do Projeto |Project Libre |[artefatos/SafeRoute.pdf](artefatos/SafeRoute.pdf) |Organizar as datas do projeto |
+| Matriz RACI           | Google Docs |[artefatos/MatrizRACIGrupo4.pdf](artefatos/MatrizRACIGrupo4.pdf) |Delegar as responsabilidades do projeto |
 
 # Documentos
 
