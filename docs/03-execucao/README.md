@@ -17,9 +17,9 @@
 
 
 # Interfaces do Sistema
-![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/110644239/754422e7-4096-45a6-97ed-c02f6cd014a3)
-
 [Interface do Sistema Figma](https://www.figma.com/design/dWVCaWA6MDgvu7O2hVx9Z1/Safe-Route?node-id=0-1&t=KCaM9cTf2YJUAFNu-1)
+
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/110644239/754422e7-4096-45a6-97ed-c02f6cd014a3)
 
 
 # Modelagem da Solução
