@@ -47,10 +47,7 @@ Desenvolver um aplicativo móvel para monitoramento veicular, visando aumentar a
 2. Criar um mecanismo de alerta para situações anormais, como paradas prolongadas ou desvios de rota.
 3. Permitir o cadastro de contatos responsáveis que receberão notificações de segurança.
 4. Garantir uma interface intuitiva e de fácil utilização para motoristas e administradores.
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
- 
 # Especificações do Projeto
 
 Nesta seção, serão detalhadas as especificações técnicas e funcionais do aplicativo Safe Route. O desenvolvimento do projeto utilizará as seguintes técnicas e ferramentas:
@@ -104,43 +101,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Motorista   | Acessar o aplicativo offline        | 	Consultar informações mesmo sem conexão com a internet       |
 |Administrador de Frota   | Gerar gráficos de desempenho        | 	Visualizar o desempenho da frota de forma visual e clara |
 
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
-> Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
-> As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos Preliminares
-
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ### Requisitos Funcionais
 
@@ -200,11 +161,6 @@ A tabela a seguir apresenta as restrições do projeto.
 
 # Partes Interessadas
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-
 Nome  |  Relação ao Projeto  |  Nível de influência
 ------|----------------------|-----------------------
 Josué Nogueira | Gerente | Alta
@@ -218,20 +174,9 @@ Vinicius Souza | Equipe Marketing | Baixa
 Car Excellence Inc. | Cliente | Moderada
 Driving Better Corporation | Cliente | Moderada
 
-
-
-
-
 # Estimativa de Custo e Prazo
 
 ## Estimativa de Custo
-
-
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
@@ -246,14 +191,6 @@ Driving Better Corporation | Cliente | Moderada
 
 ## Estimativa de Prazo
 
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
 * Prazo previsto (em horas): 3940
 * Data de início: 01/03/2024
 * Data de término: 08/06/2024
@@ -261,17 +198,6 @@ Driving Better Corporation | Cliente | Moderada
 
 # Metodologia
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 A metodologia adotada para o desenvolvimento do projeto Safe Route é baseada no framework ágil Scrum. O Scrum é uma abordagem iterativa e incremental para o desenvolvimento de software, que foca em entregas rápidas e frequentes de partes funcionais do produto, com ênfase na colaboração entre a equipe e as partes interessadas.
 
 **Processo de Trabalho**
@@ -282,19 +208,12 @@ A metodologia adotada para o desenvolvimento do projeto Safe Route é baseada no
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
 - Gerente do projeto: Responsável por definir a visão do produto, priorizar o backlog e assegurar que o trabalho da equipe de desenvolvimento está alinhado com as necessidades do cliente.
 - Scrum Master: Facilita o processo Scrum, removendo impedimentos e garantindo que a equipe siga os princípios e práticas ágeis.
 - Equipe de Desenvolvimento: Conjunto de desenvolvedores responsáveis pela implementação das funcionalidades do produto.
 - Stakeholders: Representantes do cliente e outras partes interessadas que fornecem feedback contínuo sobre o produto.
 
 ## Ferramentas
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
@@ -309,26 +228,16 @@ A metodologia adotada para o desenvolvimento do projeto Safe Route é baseada no
 
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
+> Nesta seção estão armazenados e listados os documentos e artefatos produzidos durante as aulas.
 
 ## Declaração de Escopo
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/DeclaracaoEscopoGrupo4.pdf)
 
 ## Registro de Partes Interessadas
 
-> Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+- [Registro de Partes Interessadas](artefatos/PlanilhaGerenciaPartesInteressadasUpdate.xlsx)
 
 ## Termo de Abertura do Projeto (TAP)
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/TermoDeAberturaDeProjeto.pdf)
+- [Termo de Abertura do Projeto](artefatos/TermoDeAberturaDeProjeto.pdf)
