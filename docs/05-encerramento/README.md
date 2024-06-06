@@ -28,8 +28,8 @@
 
 # Auto-avaliação
 
-Josué: foi possível obter um grande conhecimento sobre organização e gerência de projetos.
-Leonardo: o projeto contribuiu para o conhecimento sobre o GitHub.
+- Josué: foi possível obter um grande conhecimento sobre organização e gerência de projetos.
+- Leonardo: o projeto contribuiu para o conhecimento sobre o GitHub.
 
 # Sugestões e Críticas
 
