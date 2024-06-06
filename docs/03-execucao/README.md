@@ -6,14 +6,6 @@
 > Além disso, o monitoramento constante é essencial para garantir que o projeto esteja avançando conforme o planejado, e ajustes são feitos conforme necessário. 
 > A fase de execução é o momento em que o trabalho tangível é realizado, e a eficácia nessa etapa contribui diretamente para o sucesso geral do projeto.
 
-```diff
-- Esta seção irá simular a execução do projeto. 
-- Devido às características da disciplina, não será possível implementar o software (tempo insuficiente).
-- Com isso, apenas simularemos a construção do sistema nesta etapa.
-- Para isso, serão criados protótipos navegáveis, representando aquilo que seria desenvolvido em termos de interface.
-- Diagramas arquiteturais, de banco de dados e de classe representarão a modelagem e implementação do código-fonte.
-```
-
 # Estrutura do Documento
 
 - [Fase de Execução](#execução)
@@ -25,8 +17,6 @@
 
 
 # Interfaces do Sistema
-
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
 
 > Os protótipos navegáveis oferecem uma representação interativa das interfaces e funcionalidades do sistema antes da implementação final. 
 > Esses protótipos permitem que os usuários experimentem a navegação real entre telas e interajam com elementos de interface, proporcionando uma visão prática do design proposto. 
@@ -40,7 +30,8 @@
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/110644239/754422e7-4096-45a6-97ed-c02f6cd014a3)
+
 
 # Modelagem da Solução
 
