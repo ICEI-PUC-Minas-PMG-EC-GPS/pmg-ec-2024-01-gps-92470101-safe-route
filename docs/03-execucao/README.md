@@ -49,4 +49,4 @@
 
 ## Persistência dos Dados
 
-> ![PersistenciaDosDados](images/persistenciaDeDados.png)
+![PersistenciaDosDados](images/persistenciaDeDados.png)
