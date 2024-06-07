@@ -43,14 +43,9 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Vídeo explicativo do trabalho
 
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
-
-> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
-
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/e45b2a08-2a58-457e-b4e4-cebe40d4676d)
+](https://www.youtube.com/watch?v=VDOd0zTYoqw)
 
 
