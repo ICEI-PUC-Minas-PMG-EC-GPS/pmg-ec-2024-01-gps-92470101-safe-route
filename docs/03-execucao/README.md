@@ -24,9 +24,6 @@
 
 # Modelagem da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
 > A modelagem de software envolve a criação de representações abstratas que capturam a estrutura, comportamento e interações do software a ser desenvolvido. 
 > Esses modelos servem como guias visuais que auxiliam na compreensão e comunicação entre os membros da equipe de desenvolvimento. 
 > A modelagem de software abrange diversas técnicas, como diagramas de classes, diagramas de sequência e diagramas de caso de uso, proporcionando uma representação visual clara das relações e funcionalidades do sistema. 
@@ -36,21 +33,10 @@
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+[Arquitetura da Solução Figma](https://www.figma.com/design/rnvQbx4Xe30qiGUWhb5oo0/Arquitetura?node-id=0-1&t=27zOBLOEBiglighh-0)
 
-> A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
-> Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
-> A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
-> Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/9ea3840a-df58-4521-a6ec-dce83c6ff0c8)
 
-> Inclua um diagrama da arquitetura do sistema. 
-> Explique e justifique a arquitetura escolhida, com base nos objetivos do sistema, número de usuários esperados, tamanho da aplicação, previsão de expansão do sistema e orçamento do projeto.
-> 
-> **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
-> ![Exemplo Genérico de Arquitetura](images/arquitetura-sistema.png)
->
-> **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
-> ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
 
 
 ## Diagrama de Classes
