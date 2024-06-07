@@ -41,18 +41,10 @@
 
 ## Diagrama de Classes
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
+[Diagrama de Classes](images/DiagramaDeClasses.pdf)
 
-> O diagrama de classes fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
-> O diagrama serve como uma documentação visual eficaz, facilitando a compreensão, manutenção e contínua do software.
->
-> **Diagrama de Classes:**
-> Desenvolva um diagrama de classes para o sistema proposto.
-> Caso a solução fique muito grande, divida o diagrama por módulos ou serviços.
-> Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
->
-> **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/class-diagram.png)
+![Diagrama de Classes](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/110644239/a55b0a8d-4a6a-4c79-85b4-6a90b853e428)
+
 
 
 ## Persistência dos Dados
