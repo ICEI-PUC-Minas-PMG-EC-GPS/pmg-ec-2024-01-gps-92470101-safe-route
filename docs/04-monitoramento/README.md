@@ -69,11 +69,10 @@
 
 
 **Insight - Mês Junho**
-> Adicione aqui insights do mês de Junho.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/5f7553f2-90e7-4081-8c2e-9ae6b6b22c42)
+
 
 ## Burn-up do projeto
-
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
 
 > No Scrum, o gráfico burn-up é uma ferramenta utilizada para visualizar o progresso acumulado de um time em relação às entregas planejadas ao longo do tempo. 
 > Esse gráfico é construído com base em duas linhas principais: a linha de escopo total do projeto (geralmente representada por uma linha reta ascendente) e a linha de trabalho concluído pelo time (geralmente representada por uma linha que se acumula ao longo do tempo). 
@@ -87,10 +86,5 @@
 
 ## Relatório de tarefas concluídas
 
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
+![Relatório de tarefas concluídas](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-safe-route/assets/143439207/99291fa4-0ac6-46aa-b474-54fe9c379bcb)
 
-> O relatório de tarefas concluídas por pessoa é oferece uma visão do desempenho individual dos membros da equipe em relação às atividades atribuídas durante um sprint ou durante o projeto. 
-> Ao detalhar as tarefas concluídas por cada membro da equipe, o relatório permite uma análise mais precisa da distribuição de carga de trabalho, participação na realização das mesmas, identificação de possíveis gargalos ou pessoas que não estão contribuindo de forma adequada.
-> Este relatório poderá ser utilizado para definição de notas individuais aos alunos, diferentes daquelas definidas para o grupo.
-
-![Relatório de tarefas concluídas](images/tarefas-concluidas.png)
